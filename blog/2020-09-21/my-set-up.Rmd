@@ -1,0 +1,72 @@
+---
+output:
+  md_document:
+    variant: gfm
+---
+
+## My set up 
+
+Computers
+
+- work laptop (Lenovo P51 Thinkpad with 64GB RAM, Windows); use this mostly
+- small form factor home desktop (Entroware Aura, basically an Intel NUC, upgraded to 16GB RAM, currently running Manjaro Linux), with Technica LED TV monitor: used for gaming, experimentation with Docker, DHIS 2 and much more
+- various retired laptops of varying usability, some running Linux (e.g. Mate)
+- three old Raspberry Pis, of which possibly none are still functional (one previously used mainly as a print server)
+- very cheap (and slow) Lenovo Yoga tablet (not used much)
+
+Phone
+
+- Motorola Moto G7 Power
+    - AnkiDroid (used for learning stuff)
+    - Markor (note taking)
+    - Google Authenticator
+    - LastPass
+    - Simpletask/Nextcloud set up (not currently working)
+    - GuitarTuna
+    - Hews
+    - Readly (for Linux Format and TLS)
+    - Medium (regret my subscription)
+    - Moon+ Reader (ebook reader)
+    - AntennaPod
+    - Music Speed Changer (for guitar)
+- work iPhone 7 (mainly used for calls)
+
+Work software
+
+- R/RStudio: used heavily to develop and produce surveillance reports
+  - mainly use `data.table` package for coding (speed and elegance)
+- Vim (used a lot) with the following plugins:
+  - [vim-plug](https://github.com/junegunn/vim-plug): seems to work better than Pathogen
+  - [todo.txt-vim](https://github.com/dbeniamine/todo.txt-vim): still works well at ~2.5k lines
+  - [vimoutliner](https://github.com/vimoutliner/vimoutliner): now getting very slow (~250k lines in my main reference file)
+  - [vimwiki](https://github.com/vimwiki/vimwiki): trying this as replacement to vimoutliner
+  - [vim-fugitive](https://github.com/tpope/vim-fugitive): not sure I have got this working on Windows yet
+  - [tabular](https://github.com/godlygeek/tabular): needed by vimwiki
+  - [vim-markdown](https://github.com/plasticboy/vim-markdown)
+- Git (of course)
+- yEd (good for network diagrams)
+- Zotero standalone (and Microsoft Word Connector)
+- Firefox with extensions
+  - ClearURLs
+  - Cloud Firewall
+  - CSS Exfil Protection
+  - Decentraleyes
+  - Disconnect
+  - Don't touch my tabs!
+  - DuckDuckGo
+  - DuckDuckGo Privacy Essentials
+  - Google search link fix
+  - HTTPS Everywhere
+  - HTTPZ
+  - I don't care about cookies
+  - LastPass: Free Password Manager
+  - Link Cleaner
+  - minerBlock
+  - Neat URL
+  - OneTab: use this all the time
+  - Pinboard WebExtension: use this a lot too
+  - Privacy Badger
+  - Privacy-Oriented Origin Policy
+  - Redirect AMP to HTML
+  - uBlock Origin
+  - Zotero Connector
