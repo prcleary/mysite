@@ -2,6 +2,8 @@
 
 ### R
 
+[Create .gitignore file from R](create-gitignore-file.md)
+
 [Rounding like you expect it](R/rounding-in-commerce.md)
 
 #### data.table
