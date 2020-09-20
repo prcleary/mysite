@@ -1,0 +1,132 @@
+---
+title: "CV"
+output:
+  md_document:
+    variant: gfm
+bibliography: bibliography.bib
+nocite: |
+  @wingfield_contacts_2019,
+  @tucker_screening_2019,
+  @shah_use_2019,
+  @senior_local_2019,
+  @mcintyre_fully_2019,
+  @livermore_oxa-1_2019,
+  @jermacane_evaluation_2019,
+  @day_typing_2019,
+  @cleary_characteristics_2019,
+  @wingfield_high_2018,
+  @mook_online_2018,
+  @mikhail_outbreak_2018,
+  @inns_novel_2018,
+  @hungerford_influenza-associated_2018,
+  @gobin_national_2018,
+  @decraene_large_2018,
+  @aranega-bou_carbapenem-resistant_2018,
+  @tucker_quantifying_2017,
+  @thorrington_social_2017,
+  @welfare_screening_2016,
+  @wallis_health_2016,
+  @saavedra-campos_identifying_2016,
+  @macpherson_equitable_2016,
+  @freeman_enhanced_2016,
+  @dallman_phylogenetic_2016,
+  @cleary_variations_2016,
+  @waldram_control_2015,
+  @mair-jenkins_effectiveness_2015,
+  @inns_multi-country_2015,
+  @shankar_contact_2014,
+  @mccann_outbreak_2014,
+  @hungerford_risk_2014,
+  @severi_large_2012,
+  @pebody_pandemic_2010,
+  @cleary_foodborne_2010,
+  @bowie_pattern_2006,
+  @van_oosterhout_evaluation_2005,
+  @bowie_assessment_2005,
+  @cleary_late-onset_2004,
+  @cleary2000cpr
+
+csl: the-lancet.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Bio
+
+<img src="rszpcid.jpg" alt="Paul Cleary" width="150"/>
+
+Paul Cleary has been a consultant epidemiologist at Public Health England (and a predecessor organisation, the Health Protection Agency) since 2009. 
+
+After over a decade as a hospital doctor in a variety of specialties including infectious diseases, and a period of research in the UK and Malawi, Dr Cleary undertook public health specialist training. He has considerable experience of working with infectious disease surveillance systems and has investigated numerous local, national and international infectious disease outbreaks. He has extensive teaching experience relating to epidemiology and statistics for the United Kingdom Field Epidemiology Training Programme (FETP) and the European Intervention Epidemiology Training programme (EPIET). 
+
+His skills and interests relate to epidemiology, statistics, health informatics, antimicrobial resistance, tuberculosis, genomics, respiratory viruses and global health. He is an advanced user of R, Python, SQL, Git, Docker, DHIS 2 and Linux Web servers. He is currently providing technical support to projects on International Health Regulations compliance in Pakistan and Zambia. He is the national lead for influenza and respiratory viruses for the Field Service at Public Health England and previously held national lead roles for research and development and genomics. 
+
+## Work experience
+
+01/10-date: **Consultant Epidemiologist**, Field Service North West, Public Health England
+
+07/19-date: **Subject Matter Expert (infectious disease surveillance)**, PHE-Zambia International Health Regulations project
+
+11/16-date: **Subject Matter Expert (infectious disease surveillance)**, PHE-Pakistan International Health Regulations project (9 visits to Islamabad to date)
+
+10/14-6/15: **Interim Head of Influenza Preparedness and Response**, Respiratory Diseases Department, Centre for Infectious Disease Surveillance and Control (CIDSC), 61 Colindale Avenue, London, NW9 5EQ, United Kingdom
+
+06/13-07/13: **Consultant Epidemiologist**, ADS/ARO, Global Capacity, Alert and Response, World Health Organization, Avenue Appia, 20 CH-1211 Geneva 27, Switzerland
+
+06/04-07/09: **Specialist Registrar** in Public Health, North West England
+
+12/02-01-03: **Honorary Lecturer** in Epidemiology, Department of Community Health, College of Medicine, University of Malawi, Blantyre, Malawi
+
+09/91-06/04: **Acute Medicine**, various locations. Worked in eight different hospitals in England and Scotland in a variety of acute medical posts during this period, including rheumatology, cardiology, general surgery, emergency medicine, care of the elderly, gastroenterology, infectious diseases and endocrinology, with short career breaks for climbing expeditions, travel and working in Malawi
+
+## Education and training
+
+06/10-06/13: **MSc Statistics (Merit)**, University of Sheffield, United Kingdom (distance learning). Distinction for thesis *Risk of influenza infection in South Asian and other ethnic groups in England: Bayesian spatial analysis using imputed ethnicity data*; awarded PSI prize for highest grade of dissertation
+
+06/09-06/10: **Graduate Certificate in Statistics (Distinction)**, University of Sheffield, United Kingdom (distance learning)
+
+06/10: **Membership of the Faculty of Public Health**, Faculty of Public Health, 4 St Andrews Place, London NW1 4LB, United Kingdom
+
+08/03-08/07: **MSc Epidemiology**, London School of Hygiene and Tropical Medicine, United Kingdom (distance learning)
+
+06/04-06/05: **MPH**, University of Liverpool, United Kingdom
+
+2/02-5/02: **Diploma in Tropical Medicine and Hygiene (Distinction)**; awarded Warrington-Yorke Medal for International Community Health; Liverpool School of Tropical Medicine, United Kingdom
+
+08/97: **Membership of the Royal College of Physicians**, Royal College of Physicians, 11 St Andrews Place, London NW1 4LE
+
+08/86-08/91: **MBChB**, University of Edinburgh, United Kingdom
+
+## Other research activity
+
+PHE lead investigator for Wellcome Trust/Department of Health-funded (>£4m) research collaboration with the University of Liverpool: *Fully integrated, real-time detection, diagnosis and control of community diarrhoeal disease clusters and outbreaks* (INTEGRATE) study 
+
+PHE NW England lead for a UK Department of Health-funded (£500k) study *Defining reservoirs of ESBL-producing E. coli and the threat posed to personal, animal and public health in the UK*
+
+Co-investigator for *TRAnsmission of Carbapenemase producing Enterobacteriaceae* in hospital (TRACE) study
+
+Associate editor for *Influenza and Other Respiratory Viruses* and previously for *PLOS One*
+
+## Teaching and training
+
+I have made a major contribution to the PHE Field Epidemiology Training Programme, including: curriculum development; site supervisor for three fellows; project support to other fellows; member of Advisory Group; recruitment panel member for three rounds of recruitment; preparation and delivery of sessions at several modules and project reviews, particularly EPIET Multivariable Statistics (4x) and HCAI epidemiology modules (3x); FETP training site visits; masterclasses. 
+
+Instrumental in development of courses including Advanced Outbreaks course, time series analysis course, introductory R training, data visualisation, automation of surveillance reporting and genomics. I deliver lectures on infectious disease surveillance to the University of Liverpool Diploma in Tropical Medicine and Hygiene course and the University of Manchester Master of Public Health. I also teach on the SORT-IT (Structured Operational Research Training Initiative) course. I have also delivered several didactic lectures on surveillance to colleagues in Pakistan.
+
+Was previously seconded to Epiconcept to deliver time series analysis training to senior ECDC epidemiologists 
+
+Wrote Essential Statistics and Epidemiology chapter and contributed to epidemiological methods chapter for Oxford University Press "Principles and Practice of Health Protection" textbook.
+
+Have also delivered local and national training on: outbreak investigation; informed consent; audit; statistics, incl. spatiotemporal and Bayesian methods; research methodology; software including EpiData, R, Git/GitLab, Shiny/Shiny Server, DHIS 2; data visualisation; report automation; data cleaning; pathogen genomics; AMR; TB and influenza surveillance
+
+## References
+
+The latest list of publications can be found [**here**](https://www.zotero.org/drprcleary/). A list of conference presentations is available on request.
+
+<!-- Then put Cleary P in bold in references -->
+
+<!-- TODO: poster presentations... -->
+

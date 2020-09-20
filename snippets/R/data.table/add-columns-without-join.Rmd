@@ -1,0 +1,28 @@
+---
+output:
+  md_document:
+    variant: gfm
+---
+
+## Adding multicolumn function output to a `data.table`
+
+First generate some random data.
+
+```{r}
+library(data.table)
+library(epitools)
+num <- sample(20:100, 100, replace = TRUE)
+denom <- sample(100:500, 100, replace = TRUE)
+id <- 1:100
+thedata <- data.table(num, denom, id)
+head(thedata, 20)
+```
+
+Then add some columns.
+
+```{r}
+thedata[, c('x', 'n', 'proportion', 'lower', 'upper',
+'conf.level') := binom.wilson(num, denom)]
+head(thedata, 20)
+```
+

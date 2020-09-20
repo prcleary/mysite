@@ -1,0 +1,8 @@
+---
+title: "Blog"
+output:
+  md_document:
+    variant: gfm
+---
+
+My blog to go here...
