@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "All content and images &copy; by Paul Cleary<br/>",
+    "additionalFooterText": "All content on prcleary/mysite is licensed under the MIT License<br/>",
     "anchorCharacter": "&para;",
     "title": "My site"
 }
