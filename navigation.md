@@ -1,4 +1,4 @@
-# https://prcleary.github.io/mysite
+# My site
 
 [Home](index.md)
 [CV](cv/cv.md)
