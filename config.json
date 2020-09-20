@@ -1,5 +1,6 @@
 {
     "useSideMenu": true,
+    "lineBreaks": "gfm",
     "additionalFooterText": "All content and images &copy; by Paul Cleary<br/>",
     "anchorCharacter": "&para;",
     "title": "https://prcleary.github.io/mysite"
