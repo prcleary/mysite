@@ -1,0 +1,7 @@
+data
+tmpdata
+outputs
+gislookup
+*.Rhistory
+~$*.*
+.Rproj.user
