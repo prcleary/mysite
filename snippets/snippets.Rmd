@@ -6,6 +6,10 @@ output:
 
 ## Snippets
 
+### DHIS 2 
+
+[Various scripts](https://github.com/prcleary/dhis2_scripts)
+
 ### R
 
 [Create .gitignore file from R](R/create-gitignore-file.md)
