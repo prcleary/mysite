@@ -14,3 +14,5 @@ and also to do some Web experimentation.
 Twitter page: [gimmick:twitterfollow](carupalley)
 
 Publications: [Zotero page](https://www.zotero.org/drprcleary/)
+
+Bookmarks: [Pinboard page](https://pinboard.in/u:prcleary)
